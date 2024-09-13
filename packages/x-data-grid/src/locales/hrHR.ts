@@ -39,10 +39,10 @@ const hrHRGrid: Partial<GridLocaleText> = {
   toolbarExportExcel: 'Preuzmite kao Excel',
 
   // Columns management text
-  // columnsManagementSearchTitle: 'Search',
-  // columnsManagementNoColumns: 'No columns',
-  // columnsManagementShowHideAllText: 'Show/Hide All',
-  // columnsManagementReset: 'Reset',
+   columnsManagementSearchTitle: 'Traži',
+   columnsManagementNoColumns: 'Nema kolona',
+   columnsManagementShowHideAllText: 'Prikaži/Sakrij sve',
+   columnsManagementReset: 'Restartuj',
 
   // Filter panel text
   filterPanelAddFilter: 'Dodajte filter',
@@ -108,7 +108,7 @@ const hrHRGrid: Partial<GridLocaleText> = {
   filterValueFalse: 'lažno',
 
   // Column menu text
-  columnMenuLabel: 'Jelovnik ',
+  columnMenuLabel: 'Meni ',
   columnMenuShowColumns: 'Prikaži stupce',
   columnMenuManageColumns: 'Upravljanje stupcima',
   columnMenuFilter: 'filtar',
